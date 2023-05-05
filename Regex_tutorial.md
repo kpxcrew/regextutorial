@@ -43,5 +43,4 @@ The character classes \d is frequently utilized in regex to indicate a match for
 ### Character Escapes
 
 ## Author
-
-visit the link! 
+David Lee - https://github.com/kpxcrew
